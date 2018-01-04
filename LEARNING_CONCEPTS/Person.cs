@@ -8,17 +8,17 @@
 		{
 		}
 
-		//private int _age;
+		//private int age;
 
 		//public int Age
 		//{
 		//	get
 		//	{
-		//		return (_age);
+		//		return (age);
 		//	}
 		//	set
 		//	{
-		//		_age = value;
+		//		age = value;
 		//	}
 		//}
 
