@@ -25,5 +25,14 @@
 		public int Age { get; set; }
 
 		public string FullName { get; set; }
+
+		private int somePrivateField;
+
+		public void SomeFunction1()
+		{
+			this.Age = 20;
+			this.FullName = "Ali Reza Alavi";
+			this.somePrivateField = 100;
+		}
 	}
 }
