@@ -30,9 +30,15 @@
 
 		public void SomeFunction1()
 		{
-			this.Age = 20;
-			this.FullName = "Ali Reza Alavi";
-			this.somePrivateField = 100;
+			Age = 20;
+			FullName = "Ali Reza Alavi";
+
+			somePrivateField = 100;
+
+			//this.Age = 20;
+			//this.FullName = "Ali Reza Alavi";
+
+			//this.somePrivateField = 100;
 		}
 	}
 }

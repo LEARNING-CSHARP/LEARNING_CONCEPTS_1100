@@ -10,10 +10,15 @@
 
 		public void SomeFunction2()
 		{
-			this.Age = 30;
-			this.FullName = "Sara Ahmadi";
-			this.Salary = 1000000;
+			Age = 30;
+			Salary = 1000000;
+			FullName = "Sara Ahmadi";
 
+			//this.Age = 30;
+			//this.Salary = 1000000;
+			//this.FullName = "Sara Ahmadi";
+
+			// Note: somePrivateField is not accessable! But does exist!!!
 			//this.somePrivateField = 200;
 		}
 	}
