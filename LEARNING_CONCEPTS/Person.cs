@@ -8,20 +8,6 @@
 		{
 		}
 
-		//private int age;
-
-		//public int Age
-		//{
-		//	get
-		//	{
-		//		return (age);
-		//	}
-		//	set
-		//	{
-		//		age = value;
-		//	}
-		//}
-
 		public int Age { get; set; }
 
 		public string FullName { get; set; }
