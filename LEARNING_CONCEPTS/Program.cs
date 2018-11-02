@@ -6,7 +6,10 @@
 		{
 			Person person = new Person();
 
+			//person.Equals();
+			//person.GetType();
 			//person.ToString()
+			//person.GetHashCode();
 
 			person.Age = 20;
 			person.FullName = "Ali Reza Alavi";
