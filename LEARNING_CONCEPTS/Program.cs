@@ -28,11 +28,7 @@
 			list.Add(10);
 			list.Add("Hello, World!");
 
-			Employee e1 = (Employee)person1; // OK
-
-			Employee e2 = (Employee)person; // Runtime Error!
-
-			System.Console.Write("Press [ENTER] To Exit...");
+			System.Console.Write("Press [ENTER] To Exit... ");
 			System.Console.ReadLine();
 		}
 	}
