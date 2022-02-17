@@ -12,19 +12,19 @@
 
 		public string FullName { get; set; }
 
-		private int somePrivateField;
+		private int _somePrivateField;
 
 		public void SomeFunction1()
 		{
 			Age = 20;
 			FullName = "Ali Reza Alavi";
 
-			somePrivateField = 100;
+			_somePrivateField = 100;
 
 			//this.Age = 20;
 			//this.FullName = "Ali Reza Alavi";
 
-			//this.somePrivateField = 100;
+			//this._somePrivateField = 100;
 		}
 	}
 }

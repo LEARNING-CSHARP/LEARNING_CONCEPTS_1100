@@ -18,8 +18,8 @@
 			//this.Salary = 1000000;
 			//this.FullName = "Sara Ahmadi";
 
-			// Note: somePrivateField is not accessable! But does exist!!!
-			//this.somePrivateField = 200;
+			// Note: _somePrivateField is not accessable! But does exist!!!
+			//this._somePrivateField = 200;
 		}
 	}
 }
